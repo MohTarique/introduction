@@ -1,2 +1,4 @@
 # introduction
-this is my first github repository
+This is my first github repository
+Author-> Moh Tarique Siddiqui
+
